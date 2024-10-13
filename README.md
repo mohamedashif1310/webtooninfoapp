@@ -1,8 +1,3 @@
-# Path for the README.md file
-readme_file_path = os.path.join(project_folder, 'README.md')
-
-# Content for the README.md file
-readme_content = """
 # Webtoon Info App
 
 The **Webtoon Info App** is an Android application that allows users to browse a curated list of webtoon titles, view detailed information, save their favorite webtoons, and rate them. The app is designed for webtoon enthusiasts who want to explore fantasy manhwa and maintain a list of their favorites.
